@@ -1,0 +1,11 @@
+C:\C Sharp Practice\1\1\bin\Debug\netcoreapp2.1\1.deps.json
+C:\C Sharp Practice\1\1\bin\Debug\netcoreapp2.1\1.runtimeconfig.json
+C:\C Sharp Practice\1\1\bin\Debug\netcoreapp2.1\1.runtimeconfig.dev.json
+C:\C Sharp Practice\1\1\bin\Debug\netcoreapp2.1\1.dll
+C:\C Sharp Practice\1\1\bin\Debug\netcoreapp2.1\1.pdb
+C:\C Sharp Practice\1\1\obj\Debug\netcoreapp2.1\1.csprojAssemblyReference.cache
+C:\C Sharp Practice\1\1\obj\Debug\netcoreapp2.1\1.csproj.CoreCompileInputs.cache
+C:\C Sharp Practice\1\1\obj\Debug\netcoreapp2.1\1.AssemblyInfoInputs.cache
+C:\C Sharp Practice\1\1\obj\Debug\netcoreapp2.1\1.AssemblyInfo.cs
+C:\C Sharp Practice\1\1\obj\Debug\netcoreapp2.1\1.dll
+C:\C Sharp Practice\1\1\obj\Debug\netcoreapp2.1\1.pdb
